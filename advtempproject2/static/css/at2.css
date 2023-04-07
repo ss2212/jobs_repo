@@ -1,0 +1,38 @@
+h1{
+    color: rgb(99, 28, 73);
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 100px;
+}
+
+.container .jumbotran{
+    background-color: rgb(148, 156, 104);
+    margin-top: 20px;
+}
+.navbar{
+    background-color: rgb(223, 199, 246);
+    text-rendering: optimizeSpeed;
+}
+.navbar a{
+    color: rgb(94, 36, 36);
+    
+
+}
+body{
+    background: url(https://images.unsplash.com/32/Mc8kW4x9Q3aRR3RkP5Im_IMG_4417.jpg?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YmFja2dyb3VuZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60);
+    background: url(https://images.unsplash.com/photo-1531685250784-7569952593d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8YmFja2dyb3VuZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+th {
+    border: solid red 2px;
+    size: 100px;
+}
+td {
+    border: solid red 2px;
+    size: 100px;
+
+}
+table{
+    margin: auto;
+}
